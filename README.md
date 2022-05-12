@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://perves.futureinltd.com/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mollameehedi.futureinltd.com/)**
 
 - 📫 How to reach me **mollameeheddi@gmail.com**
 
@@ -48,7 +48,7 @@
 
   <br/>
     <a href="https://github.com/mollameehedi/github-readme-stats"><img alt="Md: Perves's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mollameehedi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mollameehedi/github-readme-stats"><img alt="Md: Perves's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollameehedi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mollameehedi/github-readme-stats"><img alt="mollameehedi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollameehedi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
