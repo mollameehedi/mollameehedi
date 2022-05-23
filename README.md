@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg'" />
+<img src="[assets/banner.jpg](https://github.com/mollameehedi/mollameehedi/blob/main/assets/banner.jpg)" />
 <h1 align="center">Hi 👋, I'm Molla Meehedi</h1>
 <h3 align="center">Hello, everyone. I'm Molla Meehedi a professional Full-Stack Web Developer. Style & Develop is my passion. I have 3+ years of working experience in both local & international designing industries having advanced knowledge of full-Stack website developer with expertise in PHP, Laravel, MySQL database, React, Firebase, Node, MongoDB, Express, Rest API, Html, CSS, Bootstrap, JAVASCRIPT & JQUERY.</h3>
 
