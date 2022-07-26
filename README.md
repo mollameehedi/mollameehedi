@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at 
 [https://www.youthlistener.com/](https://www.youthlistener.com/)
 
-[https://stevenbartlett.com/](https://stevenbartlett.com/)
+
 
 
 - 💬 Ask me about **Html,css, php Laravel, reac.js,Node.js**
